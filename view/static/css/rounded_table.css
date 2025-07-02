@@ -1,0 +1,13 @@
+.table-rounded {
+    border-collapse: separate;
+    border-spacing: 0;
+    overflow: hidden;
+  }
+
+
+.td-rounded {
+  border: 1px solid #dee2e6; /* ou use `border-secondary` */
+  border-radius: 12px;
+  padding: 1rem;
+  background-color: #f8f9fa; /* cinza claro opcional */
+}
